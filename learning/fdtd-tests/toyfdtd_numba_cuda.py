@@ -38,14 +38,13 @@
 #
 # This code is here for everyone, but not everyone will need something
 #      so simple, and not everyone will need to read all the comments.
-# This file is over 700 lines long, but less than 400 of that is actually
-#      code.
 #
 # This ToyFDTD1 is a stripped-down, minimalist 3D FDTD code.  It
 #      illustrates the minimum factors that must be considered to
 #      create a simple FDTD simulation.
 #
-# Python port by Ertugrul Karademir
+# Python port by Ertugrul Karademir. ekarademir@gmail.com
+#                                    https://ekarademir.com
 #
 
 import numpy as np
